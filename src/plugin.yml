@@ -1,0 +1,5 @@
+name: HologramApi
+version: 1.0
+main: me.syes.hologramapi.HologramApi
+author: Syes
+description: Flexible and Powerful Api for creating ingame holograms.
